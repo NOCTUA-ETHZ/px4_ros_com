@@ -4,7 +4,7 @@
 
 OLD (PX4 1.13): This package materializes the ROS2 side of PX4 DDS bridge, establishing a bridge between the PX4 autopilot stack through an XRCE-DDS bridge.
 
-In PX4 1.14 (with the uXRCE-DDS bridge) this is not needed anymore. However, there are some nice examples for offboard control in this package.
+In PX4 1.14 (with the uXRCE-DDS bridge) this is not needed anymore. However, there are some nice examples for offboard control in this repo.
 
 It has a straight dependency on the [`px4_msgs`](https://github.com/PX4/px4_msgs) package.
 
